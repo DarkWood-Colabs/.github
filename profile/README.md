@@ -1,4 +1,4 @@
-![DashSquared Logo](https://example.com/DashSquared_Logo.svg)
+![DashSquared Logo](https://github.com/Darkwood-Colabs/logo_just_white.png)
 
 # DashSquared 
 ## Business A.I. Solutions & Integrations
