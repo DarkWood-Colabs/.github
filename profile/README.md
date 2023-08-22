@@ -1,4 +1,4 @@
-![image](https://github.com/DarkWood-Colabs/.github/blob/main/profile/logo_just_white.png)
+![image](https://github.com/DarkWood-Colabs/.github/blob/main/profile/slogo_t.png)
 
 # DashSquared 
 ## Business A.I. Solutions & Integrations
