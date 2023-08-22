@@ -1,7 +1,8 @@
+![DashSquared Logo](https://example.com/DashSquared_Logo.svg)
+
 # DashSquared 
 ## Business A.I. Solutions & Integrations
 
-![DashSquared Logo](https://example.com/DashSquared_Logo.svg)
 
 Welcome to DashSquared! We are a team of professionals specializing in providing cutting-edge Business A.I. solutions and seamless integrations to optimize and automate your business processes.
 
